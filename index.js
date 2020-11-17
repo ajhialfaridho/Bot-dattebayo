@@ -16,8 +16,8 @@ const BotName = 'Bot dattebayo 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/ajhialfarid'; // Nama Instagramlu cok
 const whatsapplu = 'https://wa.me/+62895619811574'; // Nomor whatsapplu cok
 const kapanbotaktif = 'bot gak 24 jam'; // Kapan bot lu aktif
-const grupch1 = '.'; // OFFICIAL GRUP LU 1
-const grupch2 = '.'; // OFFICIAL GRUP LU 2
+const  grupch1  =  'https://chat.whatsapp.com/EexiDM6H8jk7MCujdDRJBD' ; // RESMI GRUP LU 1
+const  grupch2  =  'https://chat.whatsapp.com/HGguUSWyw6iIuCyuuoDYjW' ; // RESMI GRUP LU 2
 //
 const
 {
